@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ivst man in bonds. Or Lievt. Col. John Lilburne close prisoner in Newgate, by order of the Hovse of Lords.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88206</idno>
+            <idno type="STC">Wing L2124</idno>
+            <idno type="STC">Wing W685A</idno>
+            <idno type="STC">Thomason E342_2</idno>
+            <idno type="STC">ESTC R200926</idno>
+            <idno type="EEBO-CITATION">99861539</idno>
+            <idno type="PROQUEST">99861539</idno>
+            <idno type="VID">159764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159764)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ivst man in bonds. Or Lievt. Col. John Lilburne close prisoner in Newgate, by order of the Hovse of Lords.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+                  <author>Lilburne, John, 1614?-1657,</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Walwyn (cf. McMichael and Taft, The writings of William Walwyn, pp.216-7) and to John Lilburne (cf. Wing).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 29 London 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159764:1" rendition="simple:additions"/>
+            <head>THE IVST MAN IN BONDS.</head>
+            <head type="sub">
+               <hi>OR</hi> Lievt. Col. <hi>Iohn Lilburne</hi> cloſe Priſoner in Newgate, by order of the HOVSE of LORDS.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince this worthy gentle mans caſe is mine, and every mans, who though we be at liberty to day, may be in <hi>Newgate</hi> to mor<g ref="char:EOLhyphen"/>row, if the <hi>Houſe of Lords</hi> ſo pleaſe, doth it not equally and alike concerne all the people of <hi>England</hi> to lay it to heart, and either fit both our minds and necks to undergoe this ſla<g ref="char:EOLhyphen"/>very, or otherwiſe thinke of ſome ſpeedy and effectuall meanes to free our ſelves and our poſterity there from.</p>
+            <p>This noble and reſolute Gentleman Mr. <hi>Lilburne,</hi> then whom his countrey has not a truer and more faithfull ſervant, hath broke the Ice for us all, who being ſenſible that the people are in reall bondage to the <hi>Lords</hi> (and that the Lawes and Statutes providing to the contrary, ſerving them in no ſtead) hath ſing<g ref="char:EOLhyphen"/>ly adventured himſelfe a Champion for his abuſed country men, nothing doubting but that he ſhall thereby open the eyes, and awake the drowſie ſpirits of his fellow Com<g ref="char:EOLhyphen"/>moners, or rather Slaves (as the caſe now ſtands) with them; and likewiſe animate the repreſentative body of the people, to make uſe of that power wherewith they are truſted to free us, themſelves, their and our poſterities, from the <hi>Houſe of Lords</hi> imperious and ambitious uſurpation.</p>
+            <p>
+               <hi>Object.</hi> Some through ignorance, or poverty of ſpirit, may (peradventure) judge Mr. <hi>Lilburne</hi> a raſh young man for his oppoſing himſelfe againſt ſo mighty a ſtreame or torrent of worldly power, which the <hi>Lords</hi> now poſſeſſe. To ſuch I anſwer, 1. That the power of the <hi>Houſe of Lords,</hi> is like a ſhallow, un-even water, more in noiſe then ſub<g ref="char:EOLhyphen"/>ſtance; If we could diſtinguiſh between what is theirs of right, and what by incroach<g ref="char:EOLhyphen"/>ment, we ſhould ſoone find that they have deckt themſelves with the Commoners bravefeathers, which being reaſſumed, they would appeare no better arrayed then o<g ref="char:EOLhyphen"/>ther men, even equall by Law, inferior in uprightneſſe, and honeſty of converſation: We ſhould then find that they are but painted properties, Dagons, that our ſuperſtiti<g ref="char:EOLhyphen"/>on and ignorance, their owne craft and impudence have erected, no naturall iſſues of lawes, but the extuberances and muſhromes of Prerogative, the Wens of juſt govern<g ref="char:EOLhyphen"/>ment, putting the body of the People to paine, as well as occaſioning deformity, Sons of conqueſt they are and uſurpation, not of choice and election, intruded upon us by power, not conſtituted by conſent, not made by the people, from whom all power, place and office that is juſt in this kingdome ought only to ariſe.</p>
+            <p n="2">2. Mr. <hi>Lilburnes</hi> oppoſing himſelfe againſt this exorbitant and extra-judiciall power
+<pb n="2" facs="tcp:159764:2"/>of the <hi>Lords,</hi> ought rather to be admired by us as a pitch of valour we are not yet a<g ref="char:EOLhyphen"/>rived too, through the faintneſſe of our ſpirits, and dotage upon our trades, eaſe, riches, and pleaſures, then cenſured by us as raſh or furious. He that dares ſcale the walls of an enemie, or venture himſelfe upon the utmoſt of danger in the field, is not judged raſh but a valiant man, unleſſe by thoſe low ſpirits that dares not doe as he hath done. Let us therefore rather blame our ſelves for want of fortitude, then accuſe him, as ha<g ref="char:EOLhyphen"/>ving too much.</p>
+            <p>Conſider I pray the great danger we are in, if the <hi>Lords</hi> thus preſume to clap a Com<g ref="char:EOLhyphen"/>moner of <hi>England</hi> in cloſe priſon, even now when the Commons of <hi>England</hi> are ſit<g ref="char:EOLhyphen"/>ting in Parliament, who are put in truſt, and enabled with power to protect the peo<g ref="char:EOLhyphen"/>ple from ſuch bondage (yea and ſo ſuddainly after they have in effect declared, that they will doe it, in their Declaration of the 17. of <hi>April</hi> laſt) what injuries will not theſe <hi>Lords</hi> doe to us, when the <hi>Parliament</hi> is ended, and the people have none of their owne Commons nor Truſtees to protect them, heare their cryes, nor redreſſe their grievances; What priſon or dungeon will then be baſe enough, what puniſhment or torture great enough for them, that are not cowardiſh enough ſo to be ſlaves and bond-men? And ſo is not the laſt errour, like to be worſe then the firſt?</p>
+            <p>Death it ſelfe is more tollerable to a generous ſpirit, then cloſe impriſonment, be<g ref="char:EOLhyphen"/>ſides the continuall feares that ſuch an inhumane practice brings with it, of private murther or poiſoning, as there are manifold examples of ſuch cruelties, of which <hi>Overberies</hi> was not one of the leaſt who was poiſoned in the <hi>Tower,</hi> and to ſalve or colour that wickedneſſe, it was ſtrongly given out and avouched that he murthered himſelfe, though afterwards divers were hang'd for it, and the Earle of <hi>Somerſet</hi> and his Counteſſe hardly eſcaped. Sir <hi>Richard Wiſeman</hi> was moped and ſtupified with his cloſe impriſonment, and what miſchiefes (of divers ſorts) may be done to honeſt and faithfull Mr. <hi>Lilburne</hi> upon this renued opportunitie by the <hi>Lords</hi> (as he had too much formerly by the <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhops,</hi> though contrary to all equitie and juſtice, yea and even to the <hi>Lords</hi> owne reparations which lately they voted and alotted to him) whiles he is now cloſe priſoner in their owne hands, who know him to be their chiefeſt oppoſite in all their uſurpations and encroachments upon the <hi>Commoners</hi> freedomes? doth it not concerne all the <hi>Commons of England</hi> to conſider and prevent the ſame, eſpecially their great and generall Counſell in <hi>Parliament</hi> aſſembled.</p>
+            <p>Lay to heart <hi>I beſeech you O YEE HO<g ref="char:V">Ʋ</g>SE of COMMONS,</hi> that neither your ſelves nor your children can plead any immumitie or ſecurity from this cruelty and bondage of the <hi>Houſe of Lords,</hi> if now yee be ſlack or negligent, but yee may juſtly expect and feele the ſmart thereof upon you and your poſterity, as well as we upon us and ours, at leaſt after you are diſſolved, and diſmiſſed from your Authorities. And is not this one of the maine points for which yee have put your ſelves, us, and ſo many of this Nation as ſtand in your defence, to the effuſion and expence of ſo much blood and multituds of eſtates?</p>
+            <p>If yee did intend to expoſe this Kingdome to the miſeries of warre for no other ends but that one kind of Arbitrary government, <hi>Star-chamber, or High Commiſſion Power,</hi> might be abolliſhed, and others of theſe kinds eſtabliſhed over us, why would yee not tell us in due time, that wee might have both ſpared our lives and eſtates, and not made ſo many ſouldiers, Widowes and fatherleſſe to mourne at the Parlia<g ref="char:EOLhyphen"/>ments gates, for the manyfold wants occaſioned by your ſervice, and made us ſooner like humble <hi>vaſſals,</hi> to preſent our ſelves like ſlaves upon our knees at the Houſe of <hi>Lords</hi> Barre, and ſuffer our cares to be bored through with an aule, in teſtimony that wee are: heir bond-men for ever.</p>
+            <pb n="3" facs="tcp:159764:2"/>
+            <p>But if yee would either free your ſelves of this ſuſpition, or us of thoſe juſt feares, then ſhew your ſelves to be ſuch worthies as doe truly deſerve that title, by uſing this happy oppertunity which God hath put into your hands, and making us free-men; it being the maine cauſe for which wee uſed and intruſted you; and as a preſent ſigne of your fidelity and magnanimitie, let your reall intentions in the generall appeare by the exactneſſe and ſpeedineſſe of your delivering of this your <hi>owne, and his Coun<g ref="char:EOLhyphen"/>tries faithfull ſervant</hi> Mr. <hi>Lilburn</hi> from priſon with all due reparations.</p>
+            <p>Baniſh all baſe fears, for there be more with you then againſt you, and the juſtneſſe of your cauſe will daylie increaſe both your number and power, for God is alwaies preſent where Juſtice is extant, and yee cannot but obſerve by manifold experiences that he not only loves and protects juſt men, but by his Almighty power to abaſeth all their Enemies, that they ſhall flee before him and his, like the duſt before the wind: If yee will but take example by the courage and juſtice of your owne Armies, and doe as they doe, doubtleſſe the ſame God who hath proſpered them will alſo proſper you, yea and be with you, in all your proceedings whilſt yee are with him, but if yee forſake him, (by denying, ſelling, or delaying juſtice, contrary to your duties, Oaths, Covenants, Proteſtaions, and declarations) he will alſo forſake you, as he hath in all ages (even his owne People for their injuſtice, ſins, and abominations) and ſtirred up both forraigne and inteſtine enemies to revenge his juſt quarrell and true cauſe a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>
+               <hi>For more particular information, theſe enſuing lines will be a ſpeciall meanes.</hi>
+            </p>
+            <p>VPon the 22. of June 1646. the <hi>Houſe of Lords</hi> ſent an Order to the Keeper of Newgate, to bring Mr. <hi>Lilburn</hi> before them upon the 23. thereof at ten a clock, wherof he having notice that morning, wrot a letter to the ſaid Kee<g ref="char:EOLhyphen"/>per, declaring his juſt liberties and the <hi>Houſe of Lords uſurpation thereof,</hi> contrary to <hi>Magna Charta</hi> and other fundamentall Lawes of this, Kingdome and that he would not go to them willingly, but had appealed and petitioned to the Houſe of Com<g ref="char:EOLhyphen"/>mons, and therefore he deſired the Keeper to take heed what he did, leſt he could not recall any violent action, not grounded upon Law:</p>
+            <p>And after Mr. <hi>Lilburn</hi> had ſent the ſaid letter by his wife, together wiih the printed coppy of his proteſtation againſt the <hi>Houſe of Lords</hi> illegal proceedings againſt him as a Commoner, &amp; his appeale &amp; Petition to the Houſe of Commons as his competent Judges, but ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not finding the Keeper at Newgate priſon, nor at his owne houſe, &amp; the hour of his appearance before the <hi>Houſe of Lords</hi> near aproching, ſhee delivered the ſame to the Sheriff; of <hi>London,</hi> being then in <hi>Guild-hall</hi> at the Court of Alder<g ref="char:EOLhyphen"/>men, where doubtles both the ſaid letter and book were read, and as Sheriffe <hi>Foote</hi> in<g ref="char:EOLhyphen"/>formed her, that they ſent a meſſenger to Newgate with their anſwer, what it was, is not yet knowne.</p>
+            <p>But if it came at all, it was not in due time, for after the deputy Keeper and his aſſiſtants had attended halfe an hour for Mr. <hi>Lilburns</hi> comming from his cham<g ref="char:EOLhyphen"/>ber to go with them before the Houſe <hi>of Lords</hi> at the time appointed, and upon his conſtant refuſing to go willingly with them (or ſo much as to open his Cham<g ref="char:EOLhyphen"/>ber doore; but ſhut it in token of his conſtant oppoſing ſo unjuſt a power over him a free borne Engliſhman) and before the meſſenger whom he ſent to <hi>Guild-hall</hi> with their conſent, had returned with an anſwer (and whoſe returning they promiſed to attend) [they brake open his doore, tooke him away to <hi>Weſtminſter</hi>] and no meſſen<g ref="char:EOLhyphen"/>ger was ſent (who yet wee have heard off) from the Court of Aldermen.</p>
+            <p>When they had brought him to the painted chamber next the <hi>Houſe of Lords</hi>
+               <pb n="4" facs="tcp:159764:3"/>doore, where he attended with his Keepers almoſt two houres before he was called in, (as it ſeemeth) the <hi>Houſe of Lords</hi> ſervants and attendants, taking notice of the of the intercourſe of Parliament men and others ſpeaking to, him told their maſters thereof<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and leſt their uſurpation of the Commons liberties, and his juſt cauſe ſhould be manifeſted as well by word, as by writing, the <hi>Lords</hi> did call his Keepers and commanded them that they ſhould ſpeedily charge him to hold his peace, and ſpeake with none at all; but to be altogether ſilent untill he was called in before them to anſwer their interrogatories.</p>
+            <p>Unto whom he returned this anſwer, and bad them tell the ſame to the <hi>Houſe of Lords</hi> who ſent them, that he would not hold his peace, but ſpeak with any man who in the way of love ſpake to him, ſo long as he had his tongue, except the <hi>Lords</hi> ſhould put a gag into his mouth as their <hi>Fellow Lords the Biſhops did to him</hi> 8. <hi>yeares agoe, on the Pillory at Weſtminſter, after they had cauſed him to be whipt from the Fleet priſon thither,</hi> and after he had told them their ſpirituall uſurpations, as it doth theſe <hi>Lords</hi> their temporall encroachments on free mens liberties.</p>
+            <p>Then he being called into the <hi>Houſe of Lords,</hi> was commanded by their keeper of the Black-Rod to kneele before them, which he abſolutely refuſed to doe, and after their ſtill urging, and his conſtant refuſing, they asked him the reaſon, he anſwered that he had learned both better Religion and manners then to kneele to any humane or mortall power how great ſo ever, whom he never offended, and far leſſe to them whom he had defended with the adventure both of his life and eſtate, yea and withall the friends he could make: whereupon they not only returned him to <hi>Newgate</hi> priſon, but commanded him to be kept cloſe-Priſoner, as appeareth by theſe enſuing orders.</p>
+            <div type="order_of_House_of_Lords">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae 22. Junij 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Ordered by the Lords in Parliament aſſembled, that Liev. Col. <hi>John Lilburne</hi> now a priſoner in Newgate, ſhall be brought before their Lordſhips in the [High Court of PAR<g ref="char:EOLhyphen"/>LIAMENT] to morrow morning by ten of the clock: And this to be a ſufficient war<g ref="char:EOLhyphen"/>rant in that behalfe.</p>
+               <trailer>To the Gent. Uſher of this Houſe, or his Deputy, to be delivered to the Keeper of Newgate or his Deputy.</trailer>
+               <closer>
+                  <signed>
+                     <hi>Ioh. Brown</hi> Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+            <div type="order_of_House_of_Lords">
+               <opener>
+                  <dateline>
+                     <date>Die Martis 23. Iunij. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Ordered by the LORDS in PARLIAMENT aſſembled, that <hi>Iohn Lilburn</hi> ſhall ſtand committed cloſe priſoner in the Priſon of <hi>Newgate;</hi> and that he be not permitted to have pen, inke, or paper; and none ſhall have acceſſe unto him in any kind, but only his Keeper, untill this Court doth take further order.</p>
+               <trailer>To the Keeper of Newgate his deputy or deputies.</trailer>
+               <closer>
+                  <signed>
+                     <hi>Ioh. Brown</hi> Cleric. Parliamentorum. Exam. per. Rec. Briſtoe Cleric. de Newgate.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
